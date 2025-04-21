@@ -1,3 +1,3 @@
 # VirtuAlly
 
-[Link](https://drive.google.com/drive/folders/1bcxWOWE4wrMKYZybaFeKetdmFDTyiHFu) contains the datasets along with CNN model checkpoint used in the **VirtuAlly** project focused on multimodal analysis combining image and speech data.
+[Link](https://drive.google.com/drive/folders/1bcxWOWE4wrMKYZybaFeKetdmFDTyiHFu) contains the transcripts of interviews with the users and the datasets along with CNN model checkpoint and the Android .apk used in the project.
